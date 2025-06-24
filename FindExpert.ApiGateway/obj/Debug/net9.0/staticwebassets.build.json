@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "NQGHrMz7Ek361n1CkIrffTKLOdCjohzeQ+hh5pqypEc=",
+  "Source": "FindExpert.ApiGateway",
+  "BasePath": "_content/FindExpert.ApiGateway",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
